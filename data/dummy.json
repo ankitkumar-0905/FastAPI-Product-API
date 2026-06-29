@@ -1,0 +1,101 @@
+[
+    {
+        "id": "a0ce6145-9e6b-46ab-944b-4fbecd038c91",
+        "sku": "734-nhc-7348r7-002",
+        "name": "Iphone 14 pro",
+        "description": "A high-quality wireless mouse with ergonomic design.",
+        "category": "Electronics",
+        "brand": "apple",
+        "price": 120000.0,
+        "currency": "IND",
+        "discount": 5.0,
+        "stock": 40,
+        "is_active": true, 
+        "rating": 4.5,
+        "tags": [
+            "india"
+        ],
+        "images_urls": [
+            "https://example.com/"
+        ],
+        "Dimension_cm": {
+            "length": 2.5,
+            "width": 6.5,
+            "height": 44.6
+        },
+        "Seller": {
+            "saller_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "saller_name": "string",
+            "email": "user@apple.in",
+            "website": "https://example.com/"
+        },
+        "created_at": "2026-06-15T18:37:59.778175Z",
+        "volume_cm3": 724.75
+    },
+    {
+        "id": "8067a881-c334-416b-a536-1716168d9278",
+        "sku": "734-nhc-7348r7-005",
+        "name": "Wireless Mouse",
+        "description": "A high-quality wireless mouse with ergonomic design.",
+        "category": "Electronics",
+        "brand": "Logitech",
+        "price": 29.99,
+        "currency": "IND",
+        "discount": 10.0,
+        "stock": 100,
+        "is_active": true,
+        "rating": 4.5,
+        "tags": [
+            "string"
+        ],
+        "images_urls": [
+            "https://example.com/"
+        ],
+        "Dimension_cm": {
+            "length": 2.5,
+            "width": 6.5,
+            "height": 44.6
+        },
+        "Seller": {
+            "saller_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "saller_name": "string",
+            "email": "user@apple.in",
+            "website": "https://example.com/"
+        },
+        "created_at": "2026-06-16T18:10:39.218359Z",
+        "volume_cm3": 724.75
+    },
+    {
+        "id": "07398201-10a0-43d0-866b-16ebb334be96",
+        "sku": "734-nhc-7348r7-006",
+        "name": "Wireless Mouse",
+        "description": "A high-quality wireless mouse with ergonomic design.",
+        "category": "Electronics",
+        "brand": "Logitech",
+        "price": 29.99,
+        "currency": "IND",
+        "discount": 10.0,
+        "stock": 100,
+        "is_active": true,
+        "rating": 4.5,
+        "tags": [
+            "string"
+        ],
+        "images_urls": [
+            "https://example.com/"
+        ],
+        "Dimension_cm": {
+            "length": 2.5,
+            "width": 6.5,
+            "height": 44.6
+        },
+        "Seller": {
+            "saller_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "saller_name": "string",
+            "email": "user@apple.in",
+            "website": "https://example.com/"
+        },
+        "created_at": "2026-06-16T18:11:20.468099Z",
+        "volume_cm3": 724.75
+    }
+]
